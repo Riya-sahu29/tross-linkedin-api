@@ -2,6 +2,20 @@
 
 A FastAPI service that accepts a public LinkedIn profile URL and returns structured profile data as JSON: name, headline, location, about, experience, education, skills, certifications, languages, and profile images (where available).
 
+# LinkedIn Profile API
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-2.9-E92063?logo=pydantic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white)
+![Apify](https://img.shields.io/badge/Data%20via-Apify-FF9012?logo=apify&logoColor=white)
+
+A FastAPI service that accepts a public LinkedIn profile URL and returns structured profile data as JSON: name, headline, location, about, experience, education, skills, certifications, languages, and profile images (where available).
+
+## Live deployment
+
+`POST https://<your-render-app>.onrender.com/profile`
 ## Live deployment
 
 `POST https://<your-render-app>.onrender.com/profile`
